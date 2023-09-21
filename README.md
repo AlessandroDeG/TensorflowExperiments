@@ -10,10 +10,7 @@ HelLo World!
 
 ![MNIST0](/MNIST0.png)
 
-...
 
-
-![MNIST1](/MNIST1.png)
 
 
 
