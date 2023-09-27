@@ -1,6 +1,6 @@
 # TensorflowExperiments
 
-HelLo World of ML!
+Hello World of ML!
 
 -Draw a number on the Pygame GUI and press enter.
 
